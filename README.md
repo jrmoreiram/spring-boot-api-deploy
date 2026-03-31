@@ -1,6 +1,7 @@
 # 🏥 Voll.med - API REST para Gestão de Clínica Médica
 
 ## 📋 Índice
+
 - [Sobre o Projeto](#-sobre-o-projeto)
 - [Funcionalidades](#-funcionalidades)
 - [Arquitetura](#-arquitetura)
