@@ -2,7 +2,7 @@
 
 ## 📋 Índice
 - [Sobre o Projeto](#-sobre-o-projeto)
-- [Funcionalidades](#funcionalidades)
+- [Funcionalidades](#-funcionalidades)
 - [Arquitetura](#-arquitetura)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Estrutura do Projeto](#-estrutura-do-projeto)
