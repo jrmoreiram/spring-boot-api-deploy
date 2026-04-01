@@ -23,7 +23,7 @@
 
 A **Voll.med** é uma aplicação backend desenvolvida para gerenciar consultas em uma clínica médica fictícia. O sistema oferece uma API REST completa para cadastro de médicos e pacientes, além de agendamento e cancelamento de consultas médicas.
 
-Este projeto foi desenvolvido durante o **Curso de Spring Boot 3: documente, teste e prepare uma API para o deploy** da **DevMedia**, com foco em boas práticas de desenvolvimento, documentação técnica, testes automatizados e preparação para ambiente de produção.
+Este projeto foi desenvolvido durante o **Curso de Spring Boot 3: documente, teste e prepare uma API para o deploy** da **Alura**, com foco em boas práticas de desenvolvimento, documentação técnica, testes automatizados e preparação para ambiente de produção.
 
 O backend é responsável por toda a lógica de negócio e persistência de dados, enquanto aplicações mobile e web consumirão esta API para interface com os usuários finais.
 
@@ -627,7 +627,7 @@ O sistema valida as seguintes regras ao agendar uma consulta:
 Este projeto foi desenvolvido como parte do curso:
 
 **Curso**: Spring Boot 3: documente, teste e prepare uma API para o deploy  
-**Plataforma**: [DevMedia](https://www.devmedia.com.br)  
+**Plataforma**: [Alura](https://www.alura.com.br)  
 **Instrutor**: Rodrigo Ferreira
 
 ### Links Úteis
@@ -650,7 +650,7 @@ Projeto desenvolvido pela [Alura](https://www.alura.com.br) para fins educaciona
 
 ## 👨‍💻 Autor
 
-Projeto baseado no curso da DevMedia, adaptado e documentado para fins de estudo.
+Projeto baseado no curso da Alura, adaptado e documentado para fins de estudo.
 
 ---
 
@@ -669,7 +669,7 @@ Este é um projeto educacional. Sinta-se à vontade para:
 ## 📞 Suporte
 
 Para dúvidas sobre o curso, acesse:
-- [DevMedia](https://www.devmedia.com.br)
+- [Alura](https://www.alura.com.br)
 - [Alura](https://www.alura.com.br)
 
 ---
