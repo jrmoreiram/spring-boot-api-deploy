@@ -670,7 +670,6 @@ Este é um projeto educacional. Sinta-se à vontade para:
 
 Para dúvidas sobre o curso, acesse:
 - [Alura](https://www.alura.com.br)
-- [Alura](https://www.alura.com.br)
 
 ---
 
